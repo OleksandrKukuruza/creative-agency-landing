@@ -24,7 +24,7 @@
 - Font Awesome для іконок
 
 ## Посилання на GitHub Pages
-[Посилання на живий сайт] (додайте після розгортання)
+[ https://github.com/OleksandrKukuruza/creative-agency-landing ]
 
 ## Автор
 [Олександр Кукуруза]
