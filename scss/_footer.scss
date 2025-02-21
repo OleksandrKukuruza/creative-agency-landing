@@ -1,0 +1,21 @@
+footer {
+  background-color: $primary-color;
+  color: white;
+  text-align: center;
+  padding: 20px;
+
+  .socials {
+    margin-top: 10px;
+
+    a {
+      color: white;
+      margin: 0 10px;
+      font-size: 20px;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: $secondary-color;
+      }
+    }
+  }
+}
